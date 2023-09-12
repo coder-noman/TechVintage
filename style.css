@@ -13,3 +13,12 @@
 .resource-bg{
     background-color: #1361F51A;
 }
+.gray{
+    color: #535558;
+}
+.blog-card{
+    font-size: 12px;
+}
+.blog-card-body{
+    padding: 12px;
+}
